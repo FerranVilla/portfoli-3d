@@ -1,0 +1,19 @@
+{
+  "name": "portfoli-3d",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview",
+    "itch": "node tools/itch-import.mjs"
+  },
+  "dependencies": {
+    "three": "^0.180.0"
+  },
+  "devDependencies": {
+    "vite": "^7.1.0",
+    "puppeteer-core": "^24.0.0"
+  }
+}

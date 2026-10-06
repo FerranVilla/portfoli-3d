@@ -1,0 +1,32 @@
+{
+  "last-memory": {
+    "url": "https://ferranvilla.itch.io/last-memory",
+    "title": "Last memory",
+    "cover": "/projects/last-memory/itch/cover.png",
+    "screenshots": [],
+    "trailer": {
+      "provider": "vimeo",
+      "id": "1233489673"
+    },
+    "trailerThumb": "/projects/last-memory/itch/trailer.jpg",
+    "play": null,
+    "importedAt": "2026-10-06T20:23:02.509Z"
+  },
+  "conerace": {
+    "url": "https://ferranvilla.itch.io/conerace",
+    "title": "ConeRace",
+    "cover": "/projects/conerace/itch/cover.png",
+    "screenshots": [
+      "/projects/conerace/itch/shot-1.png",
+      "/projects/conerace/itch/shot-2.png",
+      "/projects/conerace/itch/shot-3.png"
+    ],
+    "trailer": {
+      "provider": "vimeo",
+      "id": "1233497565"
+    },
+    "trailerThumb": "/projects/conerace/itch/trailer.jpg",
+    "play": null,
+    "importedAt": "2026-10-06T20:23:03.920Z"
+  }
+}

@@ -1,0 +1,10 @@
+import { buildLayout, distToPath, curve } from '../src/layout.js';
+const L = buildLayout();
+console.log('path length', curve.getLength().toFixed(1));
+const s = L.stops;
+const d = (v) => distToPath(v.x, v.z, 60).toFixed(2);
+console.log('heroTree to path', d(s.about.heroTree));
+console.log('stump to path', d(s.projects.stump));
+console.log('pond center to path', d(L.pond.center), 'radius', L.pond.radius);
+console.log('sign to path', d(s.contact.sign));
+console.log('pad', s.letter.pad, 'cam', s.letter.cam);

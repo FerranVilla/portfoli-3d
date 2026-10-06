@@ -1,0 +1,2 @@
+Posa aquí els fitxers descarregables generals (CV, carta en PDF...).
+Exemple: cv-ferran-villa.pdf  →  a content.js:  cv: { file: '/files/cv-ferran-villa.pdf' }
